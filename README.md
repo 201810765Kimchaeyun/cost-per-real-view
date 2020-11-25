@@ -19,5 +19,5 @@
 ### 2. 타이머
 * 우측 상단에 타이머 출력
 <p>
- <img src="https://user-images.githubusercontent.com/60181129/99414955-aea7b300-293a-11eb-8443-d9db3442dad3.jpg"  width="30%" height="5%"/>
+ <img src="https://user-images.githubusercontent.com/60181129/100199819-13699b80-2f41-11eb-9ba3-5c9aa5db24e9.JPG"  width="30%" height="5%"/>
 </p>
