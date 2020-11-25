@@ -10,8 +10,8 @@
 ## 개발 내용
 ### 1. 웹캠을 통해 사용자의 눈 영상을 받고 동공 중심을 찾아 초록점으로 드로잉
 <p>
- <img src="https://user-images.githubusercontent.com/60181129/100199812-119fd800-2f41-11eb-9004-b862aa8269bc.JPG" />
- <img src="https://user-images.githubusercontent.com/60181129/100199817-12d10500-2f41-11eb-8ab7-283e954df1ea.JPG" />
+ <img src="https://user-images.githubusercontent.com/60181129/100199812-119fd800-2f41-11eb-9004-b862aa8269bc.JPG" width="50%" height="50%"/>
+ <img src="https://user-images.githubusercontent.com/60181129/100199817-12d10500-2f41-11eb-8ab7-283e954df1ea.JPG" width="50%" height="50%"/>
 </p>
 
 
@@ -19,5 +19,5 @@
 ### 2. 타이머
 * 우측 상단에 타이머 출력
 <p>
- <img src="https://user-images.githubusercontent.com/60181129/100199819-13699b80-2f41-11eb-9ba3-5c9aa5db24e9.JPG" />
+ <img src="https://user-images.githubusercontent.com/60181129/100199819-13699b80-2f41-11eb-9ba3-5c9aa5db24e9.JPG" width="50%" height="50%"/>
 </p>
